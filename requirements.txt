@@ -1,5 +1,5 @@
 requests
-praw==7.4.0
+praw
 qrcode==6.1
 click
 black
