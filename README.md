@@ -1,11 +1,11 @@
 
   
 
-# Cannacoin Reddit Tip Bot 
+# MayoCoin Reddit Tip Bot 
 
   
 
-...is a reddit tipping service to easily give Cannacoin to your favorite Redditors! Cannacoin is a sticky, icky smokeable but wholesome universal cryptocurrency based on the Stellar network. Before using Cannacoin Tipper, please take a look at the [Terms of Service](https://github.com/drelor-online/cannacoin-reddit-tipbot#terms-of-service).
+...is a reddit tipping service to easily give MayoCoin to your favorite Redditors! MayoCoin is an edible, spreadable, universal crypto-condiment based on the Stellar network. Before using MayoCoin Tipper, please take a look at the [Terms of Service](https://github.com/drelor-online/mayo-reddit-tipbot#terms-of-service).
 
   
 
@@ -17,11 +17,11 @@ It is a fork and modification of the [Ananos (Stellar) Reddit Tipbot by swartbee
 
   
 
-### To get started with the Cannacoin Tip Bot, either:
+### To get started with the MayoCoin Tip Bot, either:
 
   
 
-A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=cannacoin_tipbot&subject=command&message=create) to /u/cannacoin_tipbot with 'create' or 'register' in the message body.
+A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=mayo_tipbot&subject=command&message=create) to /u/mayo_tipbot with 'create' or 'register' in the message body.
 
   
 
@@ -29,11 +29,11 @@ A) **Create an account** by [sending a message](https://reddit.com/message/compo
 
   
 
-B) **Receive a Cannacoin tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=cannacoin_tipbot&subject=command&message=create) to /u/cannacoin_tipbot.
+B) **Receive a MayoCoin tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=mayo_tipbot&subject=command&message=create) to /u/mayo_tipbot.
 
   
 
-Once you have funds in your account, you can tip other redditors, or send to any Cannacoin address via PM to /u/cannacoin_tipbot.
+Once you have funds in your account, you can tip other redditors, or send to any MayoCoin (Stellar) address via PM to /u/mayo_tipbot.
 
   
 
@@ -41,7 +41,7 @@ Once you have funds in your account, you can tip other redditors, or send to any
 
   
 
-The Cannacoin tip bot is intended for tipping small amounts on Reddit posts and replies.
+The MayoCoin tip bot is intended for tipping small amounts on Reddit posts and replies.
 
   
 
@@ -53,19 +53,19 @@ On supported subreddits, you can send a tip like this:
 
   
 
-`!canna 1 This is great!`
+`!mayo 1 This is great!`
 
   
 
   
 
-This will tip a redditor 1 Cannacoin. !canna <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
+This will tip a redditor 1 MayoCoin. !mayo <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
 
   
 
   
 
-`This is great! !canna 1`
+`This is great! !mayo 1`
 
   
 
@@ -77,7 +77,7 @@ Or from anywhere on reddit, you can tip a commenter by mentioning the tip bot:
 
   
 
-`/u/cannacoin_tipbot 1`
+`/u/mayo_tipbot 1`
 
   
   
@@ -94,13 +94,13 @@ If the subreddit is a friendly subreddit, the bot will respond with a message. I
 
   
 
-The Cannacoin tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=cannacoin_tipbot&subject=command&message=type_command_here) to /u/cannacoin_tipbot for a variety of actions.
+The MayoCoin tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=mayo_tipbot&subject=command&message=type_command_here) to /u/mayo_tipbot for a variety of actions.
 
   
 
   
 
-To send 1 Cannacoin to drelor, include this text in the message body:
+To send 1 MayoCoin to drelor, include this text in the message body:
 
   
 
@@ -113,7 +113,7 @@ To send 1 Cannacoin to drelor, include this text in the message body:
 
   
 
-To send 1 Cannacoin to Stellar address G...., include this text in the message body:
+To send 1 MayoCoin to Stellar address G...., include this text in the message body:
 
   
 
@@ -135,7 +135,7 @@ or send all your balance:
 
   
 
-*Note that the address you are sending to must have a trustline with the Cannacoin address on Stellar (GBDJHODFOQHSBZ4B3PTLMDBXTSIQWD6V6RZT5YNOFW5P44LTH6P4QEAL) and you cannot send from an exchange wallet.*
+*Note that the address you are sending to must have a trustline with the MayoCoin address on Stellar (GC5TLOYRAEXMHSJ5H3CZYZVT22IZSDANO2COJLSCSVMZZRS7QUPXM6QT) and you cannot send from an exchange wallet.*
 
   
 
@@ -150,7 +150,7 @@ There are many other commands.
 'create' - Create a new account if one does not exist
 'help' - Get this help message 
 'history <optional: number of records>' - Retrieves tip bot commands.  
-'send <amount or all, optional: Currency> <user/address>' - Send Cannacoin to a reddit user or an address  
+'send <amount or all, optional: Currency> <user/address>' - Send MayoCoin to a reddit user or an address  
 'silence <yes/no>' - (default 'no') Prevents the bot from sending you tip notifications or tagging in posts  
 'subreddit <subreddit> <'activate'/'deactivate'> <option>' - Subreddit Moderator Controls - Enabled Tipping on Your Sub (`silent`, `full`)  
 'opt-out' - Disables your account.  
@@ -175,7 +175,7 @@ If you are a moderator of a subreddit, and would like to tipping to your sub, us
 
   
 
-This will allow the bot to look for !canna commands and respond to posts in that subreddit.
+This will allow the bot to look for !mayo commands and respond to posts in that subreddit.
 
   
 
@@ -209,7 +209,7 @@ To deactivate, simply PM
 ### Here's a few other great links:
 
 
-[Cannacoin Subreddit](https://reddit.com/r/cannacoin) -- Post any questions about Cannacoin  
+[MayoCoin Subreddit](https://reddit.com/r/mayocoin) -- Post any questions about MayoCoin  
   
 
 [Ananos Subreddit](https://reddit.com/r/ananos) -- Post any questions about Ananos
@@ -236,11 +236,11 @@ To deactivate, simply PM
 
   
 
-* Do not keep a lot of Cannacoin in your tip bot account! The tip bot is for tipping small amounts ONLY.
+* Do not keep a lot of MayoCoin in your tip bot account! The tip bot is for tipping small amounts ONLY.
 
   
 
-* You accept the risks of using this tip bot -- We won't steal your Cannacoin, but they might be lost at any point, and we are at no obligation to replace them. Don't put in more than you're willing to lose.
+* You accept the risks of using this tip bot -- We won't steal your MayoCoin, but they might be lost at any point, and we are at no obligation to replace them. Don't put in more than you're willing to lose.
 
   
 
@@ -262,7 +262,7 @@ To deactivate, simply PM
 
   
 
-## Why does the message have to start or end with !canna<amount>?
+## Why does the message have to start or end with !mayo<amount>?
 
   
 
@@ -276,7 +276,7 @@ This is to prevent unintentional tips! If the program simply scanned the entire 
 
   
 
-**NO! Unless you and you alone control your private keys, your funds are never safe!** Please don't keep more than a small dose of Cannacoin on the tip bot at any time! **Use at your own risk!**
+**NO! Unless you and you alone control your private keys, your funds are never safe!** Please don't keep more than a small dose of MayoCoin on the tip bot at any time! **Use at your own risk!**
 
   
   
@@ -285,7 +285,7 @@ This is to prevent unintentional tips! If the program simply scanned the entire 
   
 Unfortunately, Stellar requires fees to send transactions. The tipping happens off-chain to circumvent this. However, the bot needs to pay a small amount of XLM at each withdrawal. 
 You can prevent withdrawal problems and support the bot by donating a little XLM to the bot's address: 
-GCFUOOQN6VJNAD5OL36DGVL6WLTFCJZGOYKJMI7QUJQFRSTXULMYSICC.
+GARDBQHEUURLOWHEAC6GFIHYWHGCVJBH4V3REG2CD465GP3LDOVSSDO5.
 
   
 
@@ -323,7 +323,7 @@ Probably not. It's most likely the bot was temporarily disconnected. If a comman
 
   
 
-Post it on the [Cannacoin subreddit](https://reddit.com/r/Cannabiscoin420) .
+Post it on the [MayoCoin subreddit](https://reddit.com/r/mayocoin) .
 
   
 
@@ -341,7 +341,7 @@ If a reddit tip is a reply to a reply, it's better to keep a short message with 
 
   
 
-* 110 - You must specify an amount and a user, e.g. `send 1 cannacoin_tipbot`.
+* 110 - You must specify an amount and a user, e.g. `send 1 mayo_tipbot`.
 
   
 
@@ -377,8 +377,8 @@ If a reddit tip is a reply to a reply, it's better to keep a short message with 
 
   
 
-* 210 - Failed to send funds to Stellar address. Check that you have a trustline with Cannacoin and enough XLM funds.
+* 210 - Failed to send funds to Stellar address. Check that you have a trustline with MayoCoin and enough XLM funds.
 
 * 220 - Not enough XLM to perform withdrawal.
 
-* 230 - Withdrawal account has no Cannacoin trustline.
+* 230 - Withdrawal account has no MayoCoin trustline.
