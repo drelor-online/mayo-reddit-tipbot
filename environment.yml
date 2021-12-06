@@ -1,4 +1,4 @@
-name: poopstar-reddit-tipbot
+name: mayo-reddit-tipbot
 channels:
   - defaults
 dependencies:
@@ -7,7 +7,7 @@ dependencies:
   - requests
   - pip
   - pip:
-      - praw==6.4.0
+      - praw
       - qrcode==6.1
       - click
       - black
@@ -18,4 +18,5 @@ dependencies:
       - pylint
       - nanopy
       - bitstring
+      - stellar-sdk
 
